@@ -6,7 +6,8 @@ This project explores Northern Territory Government open spatial data relating t
 The project focuses on transforming raw open spatial data (shp files) into clear and meaningful visual outputs, including mineral title maps, title information, associated party information, and dynamic map highlighting.
 
 ## Data Source
-The project uses mineral title data from the **Northern Territory Government Open Data Portal**(https://data.nt.gov.au/dataset/strike---northern-territory-mineral-titles).
+The project uses mineral title data from the **Northern Territory Government Open Data Portal**
+(https://data.nt.gov.au/dataset/strike---northern-territory-mineral-titles).
 
 The main datasets used are:
 - `MIN_TITLE_PROD_GRNT`
